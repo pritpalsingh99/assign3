@@ -1,0 +1,35 @@
+{
+    "singers": [
+      {
+        "id": 1,
+        "name": "Diljit Dosanjh",
+        "releases": 10
+      },
+      {
+        "id": 2,
+        "name": "Gurdas Maan",
+        "releases": 18
+      },
+      {
+        "id": 3,
+        "name": "Sidhu Moose Wala",
+        "releases": 25
+      },
+      {
+        "id": 4,
+        "name": "Ammy Virk",
+        "releases": 8
+      },
+      {
+        "id": 5,
+        "name": "Sunanda Sharma",
+        "releases": 5
+      },
+      {
+        "id": 6,
+        "name": "Jass Manak",
+        "releases": 3
+      }
+    ]
+  }
+  
